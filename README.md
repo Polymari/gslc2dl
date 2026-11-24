@@ -23,4 +23,5 @@
 
 # Notes
 
-Projek dikerjakan secara fully lokal hingga selesai, dengan GPU NVIDIA GeForce RTX 4060 (8,188 MiB / ~8 GB VRAM)
+Projek dikerjakan secara fully lokal hingga selesai, dengan GPU NVIDIA GeForce RTX 4060 (8,188 MiB / ~8 GB VRAM).
+AI digunakan untuk pembantuan penulisan kode dan penalaran hasil.
