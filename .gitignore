@@ -1,0 +1,22 @@
+# Python & PyTorch artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Data, checkpoints, PDFs & generated heavy artifacts
+/data/
+/checkpoints/
+/results/*.pt
+/results/*.pth
+*.pdf
+*.tar.gz
+*.gz
+*.bin
+*.pt
+*.pth
+
+.DS_Store
+Thumbs.db
